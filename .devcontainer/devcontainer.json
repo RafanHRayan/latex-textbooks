@@ -1,9 +1,6 @@
 {
   "name": "LaTeX Cloud Environment",
   "image": "://microsoft.com",
-  "features": {
-    "ghcr.io/devcontainers/features/common-utils:1": {}
-  },
   "customizations": {
     "vscode": {
       "extensions": [
